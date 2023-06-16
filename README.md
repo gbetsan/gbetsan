@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am recent Electronics Engineering graduate that wants to pursue a Full-Stack Developer career
+#### Full Stack Software Dev in EdTech
 
 ##### BIO
  - 📍 currently in  Toronto, Canada
